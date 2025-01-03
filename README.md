@@ -13,3 +13,4 @@ Before getting started, you need to have the following prerequisites in place:
 4. OWASP ZAP Docker Image
 5. Personal Access Token
 6. Secrets in GitHub
+7. 
